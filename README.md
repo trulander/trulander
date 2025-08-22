@@ -4,6 +4,25 @@
 
 Experienced Python backend developer specializing in microservices architecture and high-performance systems
 
+## Tech Stack
+
+```python
+# Core Backend Technologies
+backend = ["Python", "Django DRF", "FastAPI", "SQLAlchemy", "Asyncio"]
+databases = ["PostgreSQL", "Redis", "MySQL"]
+messaging = ["NATS", "RabbitMQ", "Celery"]
+architecture = ["Microservices", "Clean Code", "Design Patterns"]
+infrastructure = ["Docker", "Linux", "Nginx", "Traefik"]
+monitoring = ["Grafana", "Prometheus", "Loki", "Fluent Bit"]
+
+# Additional Experience
+also_worked_with = ["C#/.NET Core", "PHP", "JavaScript/TypeScript"]
+
+# Personal Projects & Experiments AI/ML & Tools  
+ai_ml = ["Gymnasium", "LangChain", "YOLO8", "TensorBoard", "LangChain"]
+```
+
+
 ## What I Do
 
 **Recent Experience**: Python Backend Engineer at AdviNow (2021-2025)
@@ -40,24 +59,6 @@ Experienced Python backend developer specializing in microservices architecture 
 - Migrated legacy monoliths to modern microservices architecture  
 - Built high-performance REST APIs and distributed systems
 - Comfortable learning new technologies when needed (Java for PyCharm plugins, desktop apps)
-
-## Tech Stack
-
-```python
-# Core Backend Technologies
-backend = ["Python", "Django DRF", "FastAPI", "SQLAlchemy", "Asyncio"]
-databases = ["PostgreSQL", "Redis", "MySQL"]
-messaging = ["NATS", "RabbitMQ", "Celery"]
-architecture = ["Microservices", "Clean Code", "Design Patterns"]
-infrastructure = ["Docker", "Linux", "Nginx", "Traefik"]
-monitoring = ["Grafana", "Prometheus", "Loki", "Fluent Bit"]
-
-# Additional Experience
-also_worked_with = ["C#/.NET Core", "PHP", "JavaScript/TypeScript"]
-
-# Personal Projects & Experiments AI/ML & Tools  
-ai_ml = ["Gymnasium", "LangChain", "YOLO8", "TensorBoard", "LangChain"]
-```
 
 
 ## Let's Connect
