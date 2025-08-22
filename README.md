@@ -57,8 +57,6 @@ ai_ml = ["Gymnasium", "LangChain", "YOLO8", "TensorBoard", "LangChain"]
 - Started with PHP (2015-2020), transitioned to Python for better architecture opportunities
 - Migrated legacy monoliths to modern microservices architecture  
 - Built high-performance REST APIs and distributed systems
-- Comfortable learning new technologies when needed (Java for PyCharm plugins, desktop apps)
-
 
 ## Let's Connect
 
