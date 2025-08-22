@@ -42,7 +42,7 @@ ai_ml = ["Gymnasium", "LangChain", "YOLO8", "TensorBoard", "LangChain"]
 - **Architecture**: Full observability, service mesh, event-driven communication
 
 **[EnhancedDebugView](https://github.com/trulander/EnhancedDebugView)** - PyCharm plugin for enhanced debugging
-- **Tech**: Java, IntelliJ Platform SDK
+- **Tech**: Java, IntelliJ Platform SDK, Python
 - **Purpose**: Personal tool to improve Python debugging experience
 - **Shows**: Demonstrates ability to learn new stacks when needed
 
