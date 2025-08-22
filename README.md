@@ -30,7 +30,6 @@ ai_ml = ["Gymnasium", "LangChain", "YOLO8", "TensorBoard", "LangChain"]
 - **Backend Development**: Python, Django (DRF), FastAPI, SQLAlchemy, PostgreSQL
 - **Async Programming**:  Asyncio, Celery, Redis, RabbitMQ for message processing
 - **Clean Architecture**: OOP, Design Patterns, code reviews and refactoring
-- **DevOps**: Docker, Linux, CI/CD pipelines, service discovery
 
 ## Featured Projects
 
