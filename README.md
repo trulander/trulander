@@ -44,7 +44,6 @@ ai_ml = ["Gymnasium", "LangChain", "YOLO8", "TensorBoard", "LangChain"]
 **[EnhancedDebugView](https://github.com/trulander/EnhancedDebugView)** - PyCharm plugin for enhanced debugging
 - **Tech**: Java, IntelliJ Platform SDK, Python
 - **Purpose**: Personal tool to improve Python debugging experience
-- **Shows**: Demonstrates ability to learn new stacks when needed
 
 **[AIMate](https://github.com/trulander/AIMate)** - Cross-platform voice transcription desktop app
 - **Tech**: Python, Faster-Whisper, Gemini API integration
